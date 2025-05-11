@@ -84,7 +84,7 @@ Create a Jenkins pipeline by adding the following script:
 ### Build Pipeline
 
 ```groovy
-@Library('Shared") _
+@Library("Shared") _
 pipeline {
     agent any
     
